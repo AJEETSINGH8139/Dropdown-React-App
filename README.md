@@ -1,3 +1,10 @@
+This is the a simple Dropdown React project.
+
+# Screenshot of the application page
+
+Screenshot (29).png
+Screenshot (28).png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
