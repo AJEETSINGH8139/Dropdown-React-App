@@ -1,9 +1,12 @@
-This is the a simple Dropdown React project.
+#This is the a simple Dropdown React project.
 
 # Screenshot of the application page
 
-Screenshot (29).png
-Screenshot (28).png
+![Screenshot (29)](https://user-images.githubusercontent.com/66356658/219127729-d1b9f098-bc07-4196-bcc1-bbb2884ce44a.png) 
+
+
+![Screenshot (28)](https://user-images.githubusercontent.com/66356658/219127586-481fd372-511b-44d0-917a-d81cb03ab4b8.png)
+
 
 # Getting Started with Create React App
 
